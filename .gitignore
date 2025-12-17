@@ -1,0 +1,12 @@
+#build/ will contain debug/ and release/
+build/
+*.exe
+*.o
+*.obj
+*.cmake
+Makefile
+.ninja_deps
+.ninja_log
+*.swp
+*~
+.DS_Store
