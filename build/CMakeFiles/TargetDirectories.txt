@@ -1,3 +1,3 @@
-/home/crsp/Media/Documents/Learning/AUTODID/C++/Code challenges/memoryManagement/concepts_memoryManagement/build/CMakeFiles/memory_demo.dir
-/home/crsp/Media/Documents/Learning/AUTODID/C++/Code challenges/memoryManagement/concepts_memoryManagement/build/CMakeFiles/edit_cache.dir
-/home/crsp/Media/Documents/Learning/AUTODID/C++/Code challenges/memoryManagement/concepts_memoryManagement/build/CMakeFiles/rebuild_cache.dir
+/home/crsp/Media/Documents/Learning/AUTODID/compSci/Programming/lang/C++/memoryManagement/concepts_memoryManagement/build/CMakeFiles/memory_demo.dir
+/home/crsp/Media/Documents/Learning/AUTODID/compSci/Programming/lang/C++/memoryManagement/concepts_memoryManagement/build/CMakeFiles/edit_cache.dir
+/home/crsp/Media/Documents/Learning/AUTODID/compSci/Programming/lang/C++/memoryManagement/concepts_memoryManagement/build/CMakeFiles/rebuild_cache.dir
