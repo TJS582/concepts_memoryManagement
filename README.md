@@ -1,6 +1,6 @@
 # GOALS - overarching goal
 
-I want to implement a custom dynamic memory allocator in C++, as a matter of practicing c++ syntax, through the lens of the practical concept of a custom allocator.
+I want to implement a custom dynamic memory allocator in C++, with the additional benefit of also practicing c++ syntax.
 
 ## to do:
 
