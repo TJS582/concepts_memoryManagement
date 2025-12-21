@@ -22,8 +22,9 @@ add_executable(memory_demo
 #headers
 target_include_dierectories(memory_demo PRIVATE include)
 
-
-
 #enabling compiler warnings;
-target_compile_options(memory_demo PRIVATE -Wall -Wextra)
+target_compile_options(memory_demo PRIVATE -Wall -Wextra -Wpedantic -g)
+
+#adding in the library
+target_link_libraries(memory_demo PRIVATE memAllocator)
 
